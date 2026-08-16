@@ -2,6 +2,7 @@
   "bot-name": "Faizan-md",
   "description": "Javascript WhatsApp bot made by FAIZAN JUTT",
   "logo": "https://files.catbox.moe/ejufwa.jpg",
+  "documentation-link": "https://xmd-session-id-production.up.railway.app",
   "keywords": ["FAIZAN-MD"],
   "success_url": "/",
   "stack": "container",
